@@ -9,9 +9,10 @@ This project contains SQL queries to analyze a dataset containing Olympic athlet
 
 The dataset was obtained from Kaggle containing over 270k rows with details of individual athletes, events, medals etc. 
 
-## About Dataset
+### About Dataset
 
 ### Downloading Data from Kaggle:
+
 You can download the dataset from [here](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/).
 
 ## Context
